@@ -106,4 +106,4 @@ text: "fooziman" output => ["F","0","0","Z","1","M","@","N"]
 ```
 <br/>
 
->>>>>>> 400bc75 (feat(add) all hack python)
+
